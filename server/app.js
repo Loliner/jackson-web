@@ -15,7 +15,7 @@ const static_pages = new Koa();
 static_pages.use(serve(path.resolve(__dirname, '../build'))); //serve the build directory
 app.use(mount("/", static_pages));
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 1235;
 
 app.use(BodyParser());
 app.use(Logger());
