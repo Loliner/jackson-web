@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Main from './components/Main';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
         <p>
           Build a new Website.
         </p>
+        <Main />
       </header>
     </div>
   );
