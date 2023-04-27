@@ -16,11 +16,11 @@ import "../../assets/css/component.css";
 import "../../assets/sass/style.css";
 import "../../assets/css/responsive.css";
 
-import "../../assets/js/jquery.min.js";
-import "../../assets/js/bootstrap.bundle.min.js";
-import "../../assets/js/modernizr.custom.js";
-import "../../assets/js/jquery-plugin-collection.js";
-import "../../assets/js/script.js";
+// import "../../assets/js/jquery.min.js";
+// import "../../assets/js/bootstrap.bundle.min.js";
+// import "../../assets/js/modernizr.custom.js";
+// import "../../assets/js/jquery-plugin-collection.js";
+// import "../../assets/js/script.js";
 
 function Main() {
     return (
@@ -721,7 +721,11 @@ function Main() {
                     </div>
                 </div>
             </footer>
-
+            <script src="../../assets/js/jquery.min.js"></script>
+            <script src="../../assets/js/bootstrap.bundle.min.js"></script>
+            <script src="../../assets/js/modernizr.custom.js"></script>
+            <script src="../../assets/js/jquery-plugin-collection.js"></script>
+            <script src="../../assets/js/script.js"></script>
         </div>
     );
 }
