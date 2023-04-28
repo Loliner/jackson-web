@@ -1,0 +1,7 @@
+{
+  "ignore": false,
+  "minQuality": 0.6,
+  "maxQuality": 0.8,
+  "forAllChildren": false,
+  "renameWithFolder": false
+}

@@ -1,0 +1,1002 @@
+{
+  "/Users/bytedance/Downloads/Bloggar/assets/images/fancybox/fancybox_overlay.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/fancybox/fancybox_overlay.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "77aeaa52715b898b73c74d68c630330e"
+    },
+    "dest": {
+      "md5": "ada2d81c103904b90a362ee3d5ccdf32"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/ft-icon/1.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/ft-icon/1.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "b79e68c3bcd31a1bce6b2182528165a6"
+    },
+    "dest": {
+      "md5": "c3d6821e96d1ea121731eb08147cd98d"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/Single-title-shape2.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/Single-title-shape2.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "df3f662e923b582851f1909681b152c7"
+    },
+    "dest": {
+      "md5": "1a70eb875a95d55fee8ceca161cf3757"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog-details/comments-author/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog-details/comments-author/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "9f994a1c31142c72779706562a0961d8"
+    },
+    "dest": {
+      "md5": "c22837a24498dd218d5cc1cb270319dd"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/ft-icon/2.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/ft-icon/2.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "fc77ffaa843adfb7fad287182f474261"
+    },
+    "dest": {
+      "md5": "e324eceef71816c11f242e9d617c2eb6"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/logo2.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/logo2.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "24d0a777d3f520383c8c627807290e3a"
+    },
+    "dest": {
+      "md5": "997e30de147fc2b101fbfd6886010ff5"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/ab.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/ab.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "8e1a4cdd357983bd97d62e33cd80d5e5"
+    },
+    "dest": {
+      "md5": "e15e798b45371c700d4725d90aacfde3"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/logo.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/logo.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "a4bc612d496c3d265e94b8414fe195bf"
+    },
+    "dest": {
+      "md5": "414d889ad088ea747985bdf1a991431c"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/thumb/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/thumb/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "0ecfc4c237a82a49296fd9424239ba6c"
+    },
+    "dest": {
+      "md5": "4915c9414d977b91b8a429c09bf95808"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/ab2.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/ab2.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "471d2b458638f2c7cc55f1c14bd7c564"
+    },
+    "dest": {
+      "md5": "3db35537a48b8f0c48943a1c501c8493"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/review/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/review/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "c6d17fa86a134cc26b7bc5774a264126"
+    },
+    "dest": {
+      "md5": "71b55910d6ce0bfa6be5de133aa3d053"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/ft-icon/3.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/ft-icon/3.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "4e93d6424b22be3cf0bd204fc3b64a1a"
+    },
+    "dest": {
+      "md5": "501b2044bf866437c88a6892f3ed5c5b"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/review/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/review/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "a3ec3df843bcaed570270c59ade8e05b"
+    },
+    "dest": {
+      "md5": "25413d173aa25355696d795201a0c677"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/blog-avater/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/blog-avater/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "e80d2e53037ba434b650b37b88cb1e1b"
+    },
+    "dest": {
+      "md5": "b249d1390ecf8ffe1a104682200834d3"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/checkout/img-2.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/checkout/img-2.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "4a9ed83587a3bc7ed41fc76abae57d9a"
+    },
+    "dest": {
+      "md5": "a237f40ae7be4a8da908ddaf3bd3caca"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/recent-posts/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/recent-posts/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "de344ecd2a8a6db057b288b6eb5268eb"
+    },
+    "dest": {
+      "md5": "4b8727d1ebb9cba747cc75cac1269274"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/recent-posts/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/recent-posts/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "6e0c4521dca1bf452cacddd7db442535"
+    },
+    "dest": {
+      "md5": "4bafb452fa6d861fb4ed04c663f282c2"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/checkout/img-4.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/checkout/img-4.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "d043666d75a31f00c7ec426cd6ad21ca"
+    },
+    "dest": {
+      "md5": "7224cd0943bf533a17b5c4eea060befb"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/thumb/img-6.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/thumb/img-6.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "1327a0f5c775fcc0dc04ff8ff1d30338"
+    },
+    "dest": {
+      "md5": "2942a463577b04cd516bdfd7632f0164"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/thumb/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/thumb/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "5ff2dea1b8c6a889c9b4074d644631ea"
+    },
+    "dest": {
+      "md5": "bba2a8de151218280003ed1729ab06d0"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/fancybox/fancybox_sprite.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/fancybox/fancybox_sprite.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "783d4031fe50c3d83c960911e1fbc705"
+    },
+    "dest": {
+      "md5": "4116e02e6a2430ce92277ccc41ea95c9"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/blog-avater/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/blog-avater/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "7f81eec9b7a2dfde16efb269eb5444bf"
+    },
+    "dest": {
+      "md5": "2f16552b341bac43bce91afb5514c74b"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/thumb/img-4.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/thumb/img-4.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "6befe39ccd8b9bd53022ed7851799e15"
+    },
+    "dest": {
+      "md5": "c8d0cb132a9dec633a4da2071f2b290f"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/checkout/img-1.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/checkout/img-1.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "ca91d37b7ec1624cf8272564d6b7b6cb"
+    },
+    "dest": {
+      "md5": "9dc5bf6c79992cbca20a3d0d6d576aaf"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/recent-posts/img-4.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/recent-posts/img-4.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "fc28543f822f15ef750f63ff35f27a59"
+    },
+    "dest": {
+      "md5": "bef55d55ecd41ee1ec46da3f1c61f902"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/checkout/img-3.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/checkout/img-3.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "f8d3965d90b32349ed505048ad5cbfdf"
+    },
+    "dest": {
+      "md5": "990865ee5af44109130aa43881728985"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/favicon.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/favicon.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "f8862353ce7cbcbe706c5926dbc58737"
+    },
+    "dest": {
+      "md5": "db156b6984862cbec7ec70152dabb8d4"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/recent-posts/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/recent-posts/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "56d7f6e5a4d8178031ad0dc520894f1c"
+    },
+    "dest": {
+      "md5": "ca771cb0a22006010e6c4a5279a548be"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/thumb/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/thumb/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "2496e12955a97392037f927579c76e6d"
+    },
+    "dest": {
+      "md5": "ff0df51c97105fb97241684acb4a55c4"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog-details/comments-author/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog-details/comments-author/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "153dfeeb565014e05da89f2ab3dc949a"
+    },
+    "dest": {
+      "md5": "192a1a021b7989fcd53e6f1e6387e5d6"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/fancybox/fancybox_sprite@2x.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/fancybox/fancybox_sprite@2x.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "ed9970ce22242421e66ff150aa97fe5f"
+    },
+    "dest": {
+      "md5": "3e159c0eea83ce6434fd97505be464c5"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/blog-avater/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/blog-avater/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "82eb486c6c8c3d4ed1aa000892ec73ed"
+    },
+    "dest": {
+      "md5": "b5e5394b54bb0b62f35a04f469002cb7"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/instragram/18.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/instragram/18.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "e4fec1df37f99d03f9f9a8f11ad01aec"
+    },
+    "dest": {
+      "md5": "5012d7620b7e3ed3741e32520fe46148"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog-details/comments-author/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog-details/comments-author/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "d8419cb1bf1430657f11bdc9b15f7de8"
+    },
+    "dest": {
+      "md5": "2e3dffaff65b51c6c59de1d0868dde1a"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog-details/author.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog-details/author.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "b3e7ca4be38615859495686dbf4c0789"
+    },
+    "dest": {
+      "md5": "8a5ae53ad6d2497d2bc2ea8f2a58bcdd"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/ft-icon/4.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/ft-icon/4.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "67f7a58fa07cceaf7962e3851658a857"
+    },
+    "dest": {
+      "md5": "6cfb1de8671d7f57561ab212b0ad191d"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/instragram/16.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/instragram/16.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "72ac0abe43abd88aa46214dfd6316df6"
+    },
+    "dest": {
+      "md5": "ae68421b929c1e4524038f408a58b482"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/instragram/17.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/instragram/17.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "01669f66e501a12c74d9a1d43e2c453a"
+    },
+    "dest": {
+      "md5": "1139c7dbd5b4098421bd3fbfe2bb7dfe"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/error-404.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/error-404.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "efacc3bab24d601c23ed21e3224cec4a"
+    },
+    "dest": {
+      "md5": "47d421e10b3c7eb7059b18ee1bd3e7db"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/instragram/15.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/instragram/15.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "31cd2add2bb4c56916bc9c5042988749"
+    },
+    "dest": {
+      "md5": "041fadc87280066aed824ccc97fc9e34"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/about-widget.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/about-widget.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "2097cf15c57b9fca733a9b956bdf25ed"
+    },
+    "dest": {
+      "md5": "e87fff830629afe02ec03e95938dd643"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/instragram/13.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/instragram/13.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "c1c5dab54e8d39674ba25495f966f946"
+    },
+    "dest": {
+      "md5": "5620523ac21bd3e505edc2d651f085c5"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/cart/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/cart/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "51f2a9c7146cdf9e09ec7742b9511541"
+    },
+    "dest": {
+      "md5": "395cfe457e1aede9dda35b98353c71ff"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/instragram/14.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/instragram/14.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "367ab6295a6538d9b2e6659e34a2754e"
+    },
+    "dest": {
+      "md5": "4d9e07fd92ce89db39fa14acc1778767"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/cart/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/cart/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "8a5f2ece2c457e290b5990b8aaba5487"
+    },
+    "dest": {
+      "md5": "0652483af2d3af892ad5094e9eb8866b"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "8a5f2ece2c457e290b5990b8aaba5487"
+    },
+    "dest": {
+      "md5": "0652483af2d3af892ad5094e9eb8866b"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "51f2a9c7146cdf9e09ec7742b9511541"
+    },
+    "dest": {
+      "md5": "395cfe457e1aede9dda35b98353c71ff"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/hero/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/hero/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "87b2678f94152b937cfc5c1f20b20a17"
+    },
+    "dest": {
+      "md5": "b3bb66d24179624ac4677edf01d149b5"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "8a5f2ece2c457e290b5990b8aaba5487"
+    },
+    "dest": {
+      "md5": "0652483af2d3af892ad5094e9eb8866b"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "51f2a9c7146cdf9e09ec7742b9511541"
+    },
+    "dest": {
+      "md5": "395cfe457e1aede9dda35b98353c71ff"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/slider/slide-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/slider/slide-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "800bdf603fb1239bb2bea93d01439cac"
+    },
+    "dest": {
+      "md5": "af8bf52423cff0bfb7eb9b7bd36d59b6"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/add.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/add.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "8471f6a7f2fda9d237b7e3150997a428"
+    },
+    "dest": {
+      "md5": "e77c87365b2fa39a4e1890e5b50aec5d"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-9.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-9.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "c3c38b866a0a3248a5e51cbfdbc5ac5e"
+    },
+    "dest": {
+      "md5": "007d9bf99cc21bfa42e6f3a5b46d5c58"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/newslatter-bg.png": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/newslatter-bg.png",
+    "engine": "tinypng",
+    "src": {
+      "md5": "250b1590ae44f4c60d3faaef277a321b"
+    },
+    "dest": {
+      "md5": "6389c728ad020a8fd7603f315761921c"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-8.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-8.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "847b51727e83f7407552f9d42ab03d6c"
+    },
+    "dest": {
+      "md5": "8ad8642cb5275304695589e2b595a907"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/cart/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/cart/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "c108dcbb6e46e933b1237a80516bb3d1"
+    },
+    "dest": {
+      "md5": "14651c2480ba4fdc16c9fb3f724a04e3"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-7.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-7.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "1dd9b2010ae4676032bbf56464f57216"
+    },
+    "dest": {
+      "md5": "bd169460489e01f40acf5555cd20c403"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/4.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/4.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "3ba5a810139a0f356c3b6def2df03ba0"
+    },
+    "dest": {
+      "md5": "7bbf4e7cefd2d793690bd6c568f91bb8"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/cart/img-4.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/cart/img-4.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "3ba5a810139a0f356c3b6def2df03ba0"
+    },
+    "dest": {
+      "md5": "7bbf4e7cefd2d793690bd6c568f91bb8"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-6.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-6.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "689dffa2fadf671b8a3512157b7ceb89"
+    },
+    "dest": {
+      "md5": "353e589ed4ec08735ddd1ee35a48ff40"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/breaking-news/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/breaking-news/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "2ca0d25cf51a017183a8748ae9188e30"
+    },
+    "dest": {
+      "md5": "f144f31fddec0960a3b0be1da4f3ebb6"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/4.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/4.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "3ba5a810139a0f356c3b6def2df03ba0"
+    },
+    "dest": {
+      "md5": "7bbf4e7cefd2d793690bd6c568f91bb8"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/6.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/6.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "7e5179329675688f7190ac3a53e39f5f"
+    },
+    "dest": {
+      "md5": "94f5fd3069cade91abf50f5d0739d8f9"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "c108dcbb6e46e933b1237a80516bb3d1"
+    },
+    "dest": {
+      "md5": "14651c2480ba4fdc16c9fb3f724a04e3"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/cart/img-5.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/cart/img-5.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "a0843b6bff7eee4fa3170d742e8c799a"
+    },
+    "dest": {
+      "md5": "05785aef03a317740a36fd6470f71013"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/5.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/5.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "a0843b6bff7eee4fa3170d742e8c799a"
+    },
+    "dest": {
+      "md5": "05785aef03a317740a36fd6470f71013"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/hero/img-4.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/hero/img-4.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "ffb3b93153b364469d6795fcabe6fb07"
+    },
+    "dest": {
+      "md5": "3d1addd6420ae2aa820517afbf35b13a"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/6.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/6.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "7e5179329675688f7190ac3a53e39f5f"
+    },
+    "dest": {
+      "md5": "94f5fd3069cade91abf50f5d0739d8f9"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/5.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/5.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "a0843b6bff7eee4fa3170d742e8c799a"
+    },
+    "dest": {
+      "md5": "05785aef03a317740a36fd6470f71013"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "19e183f8942256d501c5e7bae86532a3"
+    },
+    "dest": {
+      "md5": "19d12489ee45c850ed74dace83a5d509"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/slider/slide-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/slider/slide-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "d33cc688cb9b8088260beb1fb32b8b87"
+    },
+    "dest": {
+      "md5": "64faa620daae04ab67de8cf3c42d1f4f"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "d7c607201e0a35870ba8e0f684148450"
+    },
+    "dest": {
+      "md5": "0276371b9a6b0c9eb92b91c5d0eafca1"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/shop/shop-single/1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/shop/shop-single/1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "c108dcbb6e46e933b1237a80516bb3d1"
+    },
+    "dest": {
+      "md5": "14651c2480ba4fdc16c9fb3f724a04e3"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/business/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/business/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "b05266861618f08fdb7b53ee35798231"
+    },
+    "dest": {
+      "md5": "7cfe80f56db9cdf78c1335ddb6e09d36"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/sponsord/img-4.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/sponsord/img-4.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "25e003f44d0098b1a03bd6d468dfdd0d"
+    },
+    "dest": {
+      "md5": "6a055f3736e9fe76c1dec180dbef02ea"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-5.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-5.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "b78bb8b6a7db0d526a4fa081cceb8649"
+    },
+    "dest": {
+      "md5": "5b3ec8e092b5a509ba6dc9b60f239d3e"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/features/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/features/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "3abea0a8669181a40c060fcc6247e10e"
+    },
+    "dest": {
+      "md5": "e2847fb8dae350b8ef405543a0e00b6e"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/lifestyle/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/lifestyle/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "68ca610e0f6bb6aac2bc4b6f0ed4c89e"
+    },
+    "dest": {
+      "md5": "5169d2bfd77fa803c6bd3de968f1a714"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/sponsord/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/sponsord/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "713868a8999b324e30f8af02e9e47b00"
+    },
+    "dest": {
+      "md5": "4cdb60303a9dbe582c0052d8c78110e8"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/sponsord/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/sponsord/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "df5dedd2efcee520d2413569eab4a738"
+    },
+    "dest": {
+      "md5": "1561f8b85f3b0ace2d65c0e377c19170"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/business/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/business/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "01d5333c8a309233d053956546d0cead"
+    },
+    "dest": {
+      "md5": "544659fe771d91734c180e9edd8bfaa0"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-4.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-4.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "ac9400bc12a08d0a83f618e1e27a26d5"
+    },
+    "dest": {
+      "md5": "ba1f8cb7e7ce67d8c2978e075fa76e5f"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/breaking-news/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/breaking-news/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "e8376351276f5385585d87c7cf2f6291"
+    },
+    "dest": {
+      "md5": "ff3c47c24d8c36fef5faee611080c412"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/business/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/business/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "21414ae1a490d4e40c98978825cc4245"
+    },
+    "dest": {
+      "md5": "372461434f6e72d3c85b2ea20ac3d3a6"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-12.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-12.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "70b5652df8eca4ed5d665de0bf56076c"
+    },
+    "dest": {
+      "md5": "914d2a1f415fae153f1f73a80861a74e"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/breaking-news/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/breaking-news/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "7da43e93c67a31acd7a1b9e5bb4fb138"
+    },
+    "dest": {
+      "md5": "2ad4da192f5329468bf478b8311bd7e0"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/features/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/features/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "1b59a54da2dbc72fa2967c1c3ef9743c"
+    },
+    "dest": {
+      "md5": "81a1a3ff510542b5a7ad0c281e5d50b3"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-11.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-11.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "11c987778b0ecc221c01f6a1c098893b"
+    },
+    "dest": {
+      "md5": "8dec772779aca14ddf36d0b1d8867a75"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/hero/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/hero/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "3d93c149d0bae479dce2b76821e0c9ba"
+    },
+    "dest": {
+      "md5": "58fd323efe9805c9bee23283e55a2fb0"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-10.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-10.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "ac94fd17011e645b5d5bebb8446813f8"
+    },
+    "dest": {
+      "md5": "c1f382184c823d5c9184a58422a0d8cb"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/features/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/features/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "6a30319cb1b1778b9c4440462ac7f59d"
+    },
+    "dest": {
+      "md5": "b8741bb0c3f2dcbc792cb10da9d5520d"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/lifestyle/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/lifestyle/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "7e12c504a6aef49ffb760c4210f323dd"
+    },
+    "dest": {
+      "md5": "e52896e287ad25809d0e055bff471c92"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/hero/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/hero/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "498ba0d93c1ad8a19c4a71ac8bfa0fc6"
+    },
+    "dest": {
+      "md5": "de7c6a73ab9eae2ada4bdea0a7d62274"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/blog/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/blog/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "3473020f33a46cc36c17f086e185dbaa"
+    },
+    "dest": {
+      "md5": "49388287655732e36dcb74fada5acc20"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/foods/img-2.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/foods/img-2.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "55e3477d358cf991e0555c67dc88ca2d"
+    },
+    "dest": {
+      "md5": "177145d93d365a6e809e6a3449e1cd30"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/sponsord/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/sponsord/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "3b2f998a6b09c527acb5c09de0ce40e1"
+    },
+    "dest": {
+      "md5": "dc57d932bc930a7263ef7ee7c1cc4917"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/lifestyle/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/lifestyle/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "b70e90c8690257af4c6691d36b13e9f3"
+    },
+    "dest": {
+      "md5": "8e89e845413e1b13f13cef3311244f38"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/page-title.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/page-title.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "a052778d4c116aede0ac8beade4791d4"
+    },
+    "dest": {
+      "md5": "88611a706731bcd1133be8fd08b2bf30"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/foods/img-1.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/foods/img-1.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "8f233048a6b8afd33797d75b0c0dc8ec"
+    },
+    "dest": {
+      "md5": "34405a96b72aad99b1fbfa67dcf853bc"
+    }
+  },
+  "/Users/bytedance/Downloads/Bloggar/assets/images/foods/img-3.jpg": {
+    "destPath": "/Users/bytedance/Downloads/Bloggar/assets/images-compress/foods/img-3.jpg",
+    "engine": "tinypng",
+    "src": {
+      "md5": "3ba0986b8518f3b81710fbba918b587a"
+    },
+    "dest": {
+      "md5": "8f23f7f7224ce67ddf65a8a731c952f6"
+    }
+  }
+}
