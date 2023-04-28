@@ -70,7 +70,7 @@ function Main() {
                             <div className="col-lg-2 col-md-6 col-6">
                                 <div className="navbar-header">
                                     <a className="navbar-brand" href="index.html">
-                                        <img src="images/logo.png" alt="" />
+                                        <img loading="lazy" src="images/logo.png" alt="" />
                                     </a>
                                 </div>
                             </div>
@@ -152,14 +152,14 @@ function Main() {
                                             </div>
                                             <div className="header-right-menu-wrap">
                                                 <button className="right-menu-close"><i className="ti-close"></i></button>
-                                                <div className="logo"><img src="images/logo2.png" alt="" /></div>
+                                                <div className="logo"><img loading="lazy" src="images/logo2.png" alt="" /></div>
                                                 <div className="header-right-sec">
                                                     <div className="project-widget widget">
                                                         <h3>Our Latest News</h3>
                                                         <div className="posts">
                                                             <div className="post">
                                                                 <div className="img-holder">
-                                                                    <img src="images/recent-posts/img-1.jpg" alt="" />
+                                                                    <img loading="lazy" src="images/recent-posts/img-1.jpg" alt="" />
                                                                 </div>
                                                                 <div className="details">
                                                                     <span className="date">19 Jun 2022 </span>
@@ -170,7 +170,7 @@ function Main() {
                                                             </div>
                                                             <div className="post">
                                                                 <div className="img-holder">
-                                                                    <img src="images/recent-posts/img-2.jpg" alt="" />
+                                                                    <img loading="lazy" src="images/recent-posts/img-2.jpg" alt="" />
                                                                 </div>
                                                                 <div className="details">
                                                                     <span className="date">22 May 2022 </span>
@@ -181,7 +181,7 @@ function Main() {
                                                             </div>
                                                             <div className="post">
                                                                 <div className="img-holder">
-                                                                    <img src="images/recent-posts/img-3.jpg" alt="" />
+                                                                    <img loading="lazy" src="images/recent-posts/img-3.jpg" alt="" />
                                                                 </div>
                                                                 <div className="details">
                                                                     <span className="date">12 Apr 2022 </span>
@@ -227,7 +227,7 @@ function Main() {
                                 <div className="wpo-blog-grids gallery-container clearfix">
                                     <div className="grid">
                                         <div className="img-holder">
-                                            <img src="images/hero/img-1.jpg" alt="" className="img img-responsive" />
+                                            <img loading="lazy" src="images/hero/img-1.jpg" alt="" className="img img-responsive" />
                                             <div className="wpo-blog-content">
                                                 <div className="thumb">Fasion</div>
                                                 <h2><a href="blog-single.html">What’s In Trend In Women's Fashion
@@ -235,7 +235,7 @@ function Main() {
                                                 <p>You can customize the view Blog posts with a simple mouse click and
                                                     immediately see the result of your changes. </p>
                                                 <ul>
-                                                    <li><img src="images/blog/blog-avater/img-1.jpg " alt="" /></li>
+                                                    <li><img loading="lazy" src="images/blog/blog-avater/img-1.jpg " alt="" /></li>
                                                     <li>By <a href="blog-single.html">Robert</a></li>
                                                     <li>20 Nov 2022</li>
                                                 </ul>
@@ -244,7 +244,7 @@ function Main() {
                                     </div>
                                     <div className="grid">
                                         <div className="img-holder">
-                                            <img src="images/hero/img-2.jpg" alt="" className="img img-responsive" />
+                                            <img loading="lazy" src="images/hero/img-2.jpg" alt="" className="img img-responsive" />
                                             <div className="wpo-blog-content">
                                                 <div className="thumb">Travel</div>
                                                 <h2><a href="blog-single.html">Traveling Makes You More Interesting</a></h2>
@@ -257,7 +257,7 @@ function Main() {
                                     </div>
                                     <div className="grid s2">
                                         <div className="img-holder">
-                                            <img src="images/hero/img-3.jpg" alt="" className="img img-responsive" />
+                                            <img loading="lazy" src="images/hero/img-3.jpg" alt="" className="img img-responsive" />
                                             <div className="wpo-blog-content">
                                                 <div className="thumb">Food</div>
                                                 <h2><a href="blog-single.html">Top 10 Healthy Food</a></h2>
@@ -268,7 +268,7 @@ function Main() {
                                             </div>
                                         </div>
                                         <div className="img-holder">
-                                            <img src="images/hero/img-4.jpg" alt="" className="img img-responsive" />
+                                            <img loading="lazy" src="images/hero/img-4.jpg" alt="" className="img img-responsive" />
                                             <div className="wpo-blog-content">
                                                 <div className="thumb">Business</div>
                                                 <h2><a href="blog-single.html">What Makes a Leader?</a></h2>
@@ -296,7 +296,7 @@ function Main() {
                         <div className="wpo-breacking-wrap owl-carousel">
                             <div className="wpo-breacking-item s1">
                                 <div className="wpo-breacking-img">
-                                    <img src="images/breaking-news/img-1.jpg" alt="" />
+                                    <img loading="lazy" src="images/breaking-news/img-1.jpg" alt="" />
                                 </div>
                                 <div className="wpo-breacking-text">
                                     <span>22 Sep 2022</span>
@@ -306,7 +306,7 @@ function Main() {
                             </div>
                             <div className="wpo-breacking-item">
                                 <div className="wpo-breacking-img">
-                                    <img src="images/breaking-news/img-2.jpg" alt="" />
+                                    <img loading="lazy" src="images/breaking-news/img-2.jpg" alt="" />
                                 </div>
                                 <div className="wpo-breacking-text">
                                     <span>22 Sep 2022</span>
@@ -315,7 +315,7 @@ function Main() {
                             </div>
                             <div className="wpo-breacking-item">
                                 <div className="wpo-breacking-img">
-                                    <img src="images/breaking-news/img-3.jpg" alt="" />
+                                    <img loading="lazy" src="images/breaking-news/img-3.jpg" alt="" />
                                 </div>
                                 <div className="wpo-breacking-text">
                                     <span>22 Sep 2022</span>
@@ -342,14 +342,14 @@ function Main() {
                                         <div className="col col-lg-6 col-md-6 col-12">
                                             <div className="wpo-blog-item">
                                                 <div className="wpo-blog-img">
-                                                    <img src="images/blog/img-1.jpg" alt="" />
+                                                    <img loading="lazy" src="images/blog/img-1.jpg" alt="" />
                                                     <div className="thumb">Travel</div>
                                                 </div>
                                                 <div className="wpo-blog-content">
                                                     <h2><a href="blog-single.html">Traveling Makes You More Inteligent
                                                         and More Energetic</a></h2>
                                                     <ul>
-                                                        <li><img src="images/blog/blog-avater/img-1.jpg " alt="" />
+                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-1.jpg " alt="" />
                                                         </li>
                                                         <li>By <a href="blog-single.html">Admin</a></li>
                                                         <li>25 Sep 2022</li>
@@ -362,14 +362,14 @@ function Main() {
                                         <div className="col col-lg-6 col-md-6 col-12">
                                             <div className="wpo-blog-item">
                                                 <div className="wpo-blog-img">
-                                                    <img src="images/blog/img-2.jpg" alt="" />
+                                                    <img loading="lazy" src="images/blog/img-2.jpg" alt="" />
                                                     <div className="thumb">Travel</div>
                                                 </div>
                                                 <div className="wpo-blog-content">
                                                     <h2><a href="blog-single.html">12 Things to See and Find Out in Bergen,
                                                         Norway</a></h2>
                                                     <ul>
-                                                        <li><img src="images/blog/blog-avater/img-2.jpg " alt="" />
+                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-2.jpg " alt="" />
                                                         </li>
                                                         <li>By <a href="blog-single.html">Admin</a></li>
                                                         <li>25 Sep 2022</li>
@@ -382,14 +382,14 @@ function Main() {
                                         <div className="col col-lg-6 col-md-6 col-12">
                                             <div className="wpo-blog-item">
                                                 <div className="wpo-blog-img">
-                                                    <img src="images/blog/img-3.jpg" alt="" />
+                                                    <img loading="lazy" src="images/blog/img-3.jpg" alt="" />
                                                     <div className="thumb">Travel</div>
                                                 </div>
                                                 <div className="wpo-blog-content">
                                                     <h2><a href="blog-single.html">Healthy Daily Rutine For Your Healthy
                                                         Lifestyle</a></h2>
                                                     <ul>
-                                                        <li><img src="images/blog/blog-avater/img-3.jpg " alt="" />
+                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-3.jpg " alt="" />
                                                         </li>
                                                         <li>By <a href="blog-single.html">Admin</a></li>
                                                         <li>25 Sep 2022</li>
@@ -402,14 +402,14 @@ function Main() {
                                         <div className="col col-lg-6 col-md-6 col-12">
                                             <div className="wpo-blog-item">
                                                 <div className="wpo-blog-img">
-                                                    <img src="images/blog/img-4.jpg" alt="" />
+                                                    <img loading="lazy" src="images/blog/img-4.jpg" alt="" />
                                                     <div className="thumb">Travel</div>
                                                 </div>
                                                 <div className="wpo-blog-content">
                                                     <h2><a href="blog-single.html">Perfect Photo Clicking Idea You Must
                                                         Khow About.</a></h2>
                                                     <ul>
-                                                        <li><img src="images/blog/blog-avater/img-1.jpg " alt="" />
+                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-1.jpg " alt="" />
                                                         </li>
                                                         <li>By <a href="blog-single.html">Admin</a></li>
                                                         <li>25 Sep 2022</li>
@@ -422,14 +422,14 @@ function Main() {
                                         <div className="col col-lg-6 col-md-6 col-12">
                                             <div className="wpo-blog-item">
                                                 <div className="wpo-blog-img">
-                                                    <img src="images/blog/img-5.jpg" alt="" />
+                                                    <img loading="lazy" src="images/blog/img-5.jpg" alt="" />
                                                     <div className="thumb">Travel</div>
                                                 </div>
                                                 <div className="wpo-blog-content">
                                                     <h2><a href="blog-single.html">Traveling Makes You More Inteligent
                                                         and More Energetic</a></h2>
                                                     <ul>
-                                                        <li><img src="images/blog/blog-avater/img-2.jpg " alt="" />
+                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-2.jpg " alt="" />
                                                         </li>
                                                         <li>By <a href="blog-single.html">Admin</a></li>
                                                         <li>25 Sep 2022</li>
@@ -442,14 +442,14 @@ function Main() {
                                         <div className="col col-lg-6 col-md-6 col-12">
                                             <div className="wpo-blog-item">
                                                 <div className="wpo-blog-img">
-                                                    <img src="images/blog/img-6.jpg" alt="" />
+                                                    <img loading="lazy" src="images/blog/img-6.jpg" alt="" />
                                                     <div className="thumb">Travel</div>
                                                 </div>
                                                 <div className="wpo-blog-content">
                                                     <h2><a href="blog-single.html">12 Things to See and Find Out in Bergen,
                                                         Norway</a></h2>
                                                     <ul>
-                                                        <li><img src="images/blog/blog-avater/img-3.jpg " alt="" />
+                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-3.jpg " alt="" />
                                                         </li>
                                                         <li>By <a href="blog-single.html">Admin</a></li>
                                                         <li>25 Sep 2022</li>
@@ -482,7 +482,7 @@ function Main() {
                                     <div className="posts">
                                         <div className="post">
                                             <div className="img-holder">
-                                                <img src="images/recent-posts/img-1.jpg" alt="" />
+                                                <img loading="lazy" src="images/recent-posts/img-1.jpg" alt="" />
                                             </div>
                                             <div className="details">
                                                 <span className="date">19 Jun 2022 </span>
@@ -492,7 +492,7 @@ function Main() {
                                         </div>
                                         <div className="post">
                                             <div className="img-holder">
-                                                <img src="images/recent-posts/img-2.jpg" alt="" />
+                                                <img loading="lazy" src="images/recent-posts/img-2.jpg" alt="" />
                                             </div>
                                             <div className="details">
                                                 <span className="date">22 May 2022 </span>
@@ -502,7 +502,7 @@ function Main() {
                                         </div>
                                         <div className="post">
                                             <div className="img-holder">
-                                                <img src="images/recent-posts/img-3.jpg" alt="" />
+                                                <img loading="lazy" src="images/recent-posts/img-3.jpg" alt="" />
                                             </div>
                                             <div className="details">
                                                 <span className="date">12 Apr 2022 </span>
@@ -511,7 +511,7 @@ function Main() {
                                         </div>
                                         <div className="post">
                                             <div className="img-holder">
-                                                <img src="images/recent-posts/img-4.jpg" alt="" />
+                                                <img loading="lazy" src="images/recent-posts/img-4.jpg" alt="" />
                                             </div>
                                             <div className="details">
                                                 <span className="date">12 Apr 2022 </span>
@@ -521,7 +521,7 @@ function Main() {
                                     </div>
                                 </div>
                                 <div className="wpo-add-widget">
-                                    <a href="#"><img src="images/add.jpg" alt="" /></a>
+                                    <a href="#"><img loading="lazy" src="images/add.jpg" alt="" /></a>
                                 </div>
                             </div>
                         </div>
@@ -542,14 +542,14 @@ function Main() {
                                     <div className="col col-xl-3 col-lg-6 col-md-6 col-12">
                                         <div className="wpo-blog-item">
                                             <div className="wpo-blog-img">
-                                                <img src="images/sponsord/img-1.jpg" alt="" />
+                                                <img loading="lazy" src="images/sponsord/img-1.jpg" alt="" />
                                                 <div className="thumb">Travel</div>
                                             </div>
                                             <div className="wpo-blog-content">
                                                 <h2><a href="blog-single.html">Top Most Beautiful Scenery in The World.</a>
                                                 </h2>
                                                 <ul>
-                                                    <li><img src="images/blog/blog-avater/img-1.jpg " alt="" /></li>
+                                                    <li><img loading="lazy" src="images/blog/blog-avater/img-1.jpg " alt="" /></li>
                                                     <li>By <a href="blog-single.html">Admin</a></li>
                                                     <li>25 Sep 2022</li>
                                                 </ul>
@@ -559,14 +559,14 @@ function Main() {
                                     <div className="col col-xl-3 col-lg-6 col-md-6 col-12">
                                         <div className="wpo-blog-item">
                                             <div className="wpo-blog-img">
-                                                <img src="images/sponsord/img-2.jpg" alt="" />
+                                                <img loading="lazy" src="images/sponsord/img-2.jpg" alt="" />
                                                 <div className="thumb">Travel</div>
                                             </div>
                                             <div className="wpo-blog-content">
                                                 <h2><a href="blog-single.html">Perfect Photo Clicking Idea You Must Khow
                                                     About.</a></h2>
                                                 <ul>
-                                                    <li><img src="images/blog/blog-avater/img-2.jpg " alt="" /></li>
+                                                    <li><img loading="lazy" src="images/blog/blog-avater/img-2.jpg " alt="" /></li>
                                                     <li>By <a href="blog-single.html">Admin</a></li>
                                                     <li>25 Sep 2022</li>
                                                 </ul>
@@ -576,14 +576,14 @@ function Main() {
                                     <div className="col col-xl-3 col-lg-6 col-md-6 col-12">
                                         <div className="wpo-blog-item">
                                             <div className="wpo-blog-img">
-                                                <img src="images/sponsord/img-3.jpg" alt="" />
+                                                <img loading="lazy" src="images/sponsord/img-3.jpg" alt="" />
                                                 <div className="thumb">Travel</div>
                                             </div>
                                             <div className="wpo-blog-content">
                                                 <h2><a href="blog-single.html">Top Most Beautiful Scenery in The World.</a>
                                                 </h2>
                                                 <ul>
-                                                    <li><img src="images/blog/blog-avater/img-3.jpg " alt="" /></li>
+                                                    <li><img loading="lazy" src="images/blog/blog-avater/img-3.jpg " alt="" /></li>
                                                     <li>By <a href="blog-single.html">Admin</a></li>
                                                     <li>25 Sep 2022</li>
                                                 </ul>
@@ -593,14 +593,14 @@ function Main() {
                                     <div className="col col-xl-3 col-lg-6 col-md-6 col-12">
                                         <div className="wpo-blog-item">
                                             <div className="wpo-blog-img">
-                                                <img src="images/sponsord/img-4.jpg" alt="" />
+                                                <img loading="lazy" src="images/sponsord/img-4.jpg" alt="" />
                                                 <div className="thumb">Travel</div>
                                             </div>
                                             <div className="wpo-blog-content">
                                                 <h2><a href="blog-single.html">Top Most Beautiful Scenery in The World.</a>
                                                 </h2>
                                                 <ul>
-                                                    <li><img src="images/blog/blog-avater/img-1.jpg " alt="" /></li>
+                                                    <li><img loading="lazy" src="images/blog/blog-avater/img-1.jpg " alt="" /></li>
                                                     <li>By <a href="blog-single.html">Admin</a></li>
                                                     <li>25 Sep 2022</li>
                                                 </ul>
@@ -642,7 +642,7 @@ function Main() {
                             <div className="col col-lg-3 col-md-6 col-sm-12 col-12">
                                 <div className="widget about-widget">
                                     <div className="logo widget-title">
-                                        <img src="images/logo2.png" alt="blog" />
+                                        <img loading="lazy" src="images/logo2.png" alt="blog" />
                                     </div>
                                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have
                                         suffered alteration in some form, by injected humour, or randomised words which
@@ -688,13 +688,13 @@ function Main() {
                                         <h3>Social Media</h3>
                                     </div>
                                     <ul>
-                                        <li><a href="#"><i><img src="images//ft-icon/1.png" alt="" /></i> Facebook</a>
+                                        <li><a href="#"><i><img loading="lazy" src="images//ft-icon/1.png" alt="" /></i> Facebook</a>
                                         </li>
-                                        <li><a href="#"><i><img src="images//ft-icon/2.png" alt="" /></i> Twitter</a>
+                                        <li><a href="#"><i><img loading="lazy" src="images//ft-icon/2.png" alt="" /></i> Twitter</a>
                                         </li>
-                                        <li><a href="#"><i><img src="images//ft-icon/3.png" alt="" /></i> Instagram</a>
+                                        <li><a href="#"><i><img loading="lazy" src="images//ft-icon/3.png" alt="" /></i> Instagram</a>
                                         </li>
-                                        <li><a href="#"><i><img src="images//ft-icon/4.png" alt="" /></i> Youtube</a>
+                                        <li><a href="#"><i><img loading="lazy" src="images//ft-icon/4.png" alt="" /></i> Youtube</a>
                                         </li>
                                     </ul>
                                 </div>
