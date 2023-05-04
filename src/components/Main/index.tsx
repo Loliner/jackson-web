@@ -14,11 +14,13 @@ import "./css/odometer-theme-default.css";
 import "./css/component.css";
 import "./sass/style.css";
 import "./css/responsive.css";
+import Navbar from '../Navbar';
+import TodayRecommend from '../TodayRecommend';
 
 function Main() {
     return (
         <div className="page-wrapper">
-            <div className="preloader">
+            {/* <div className="preloader">
                 <div className="angular-shape">
                     <div></div>
                     <div></div>
@@ -28,20 +30,20 @@ function Main() {
                     <div className="double-bounce1"></div>
                     <div className="double-bounce2"></div>
                 </div>
-            </div>
+            </div> */}
             <header id="header" className="wpo-site-header">
                 <div className="topbar">
                     <div className="container">
                         <div className="row">
                             <div className="col col-lg-7 col-md-9 col-sm-12 col-12">
                                 <div className="contact-intro">
-                                    <ul>
+                                    {/* <ul>
                                         <li className="update"><span>New Update</span></li>
                                         <li>Betting against meme stocks could get you seriously burned</li>
-                                    </ul>
+                                    </ul> */}
                                 </div>
                             </div>
-                            <div className="col  col-lg-5 col-md-3 col-sm-12 col-12">
+                            {/* <div className="col  col-lg-5 col-md-3 col-sm-12 col-12">
                                 <div className="contact-info">
                                     <ul>
                                         <li><a href="#"><i className="ti-facebook"></i></a></li>
@@ -50,7 +52,7 @@ function Main() {
                                         <li><a href="#"><i className="ti-google"></i></a></li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
@@ -75,55 +77,7 @@ function Main() {
                                 </div>
                             </div>
                             <div className="col-lg-8 col-md-1 col-1">
-                                <div id="navbar" className="collapse navbar-collapse navigation-holder">
-                                    <button className="menu-close"><i className="ti-close"></i></button>
-                                    <ul className="nav navbar-nav mb-2 mb-lg-0">
-                                        <li className="menu-item-has-children">
-                                            <a className="active" href="#">Home</a>
-                                            <ul className="sub-menu">
-                                                <li><a className="active" href="index.html">Home style 1</a></li>
-                                                <li><a href="index-2.html">Home style 2</a></li>
-                                                <li><a href="index-3.html">Home style 3</a></li>
-                                            </ul>
-                                        </li>
-                                        <li className="menu-item-has-children">
-                                            <a href="#">Pages</a>
-                                            <ul className="sub-menu">
-                                                <li><a href="blog.html">Archive</a></li>
-                                                <li><a href="contact.html">Contact Us</a></li>
-                                                <li><a href="shop.html">Shop</a></li>
-                                                <li><a href="shop-single.html">Shop Single</a></li>
-                                                <li><a href="cart.html">Cart</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                                <li><a href="404.html">Error 404</a></li>
-                                                <li><a href="login.html">Login</a></li>
-                                                <li><a href="register.html">Register</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="lifestyle.html">Lifestyle</a></li>
-                                        <li><a href="foods.html">Foods</a></li>
-                                        <li><a href="business.html">Business</a></li>
-                                        <li><a href="travels.html">Travel</a></li>
-                                        <li className="menu-item-has-children">
-                                            <a href="#">Post</a>
-                                            <ul className="sub-menu">
-                                                <li><a href="blog.html">Post right sidebar</a></li>
-                                                <li><a href="blog-left-sidebar.html">Post left sidebar</a></li>
-                                                <li><a href="blog-fullwidth.html">Post fullwidth</a></li>
-                                                <li className="menu-item-has-children">
-                                                    <a href="#">Post details</a>
-                                                    <ul className="sub-menu">
-                                                        <li><a href="blog-single.html">Post details right sidebar</a></li>
-                                                        <li><a href="blog-single-left-sidebar.html">Post details left
-                                                            sidebar</a></li>
-                                                        <li><a href="blog-single-fullwidth.html">Post details fullwidth</a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
+                                <Navbar />
                             </div>
                             <div className="col-lg-2 col-md-2 col-2">
                                 <div className="header-right">
@@ -229,15 +183,13 @@ function Main() {
                                         <div className="img-holder">
                                             <img loading="lazy" src="images/hero/img-1.jpg" alt="" className="img img-responsive" />
                                             <div className="wpo-blog-content">
-                                                <div className="thumb">Fasion</div>
-                                                <h2><a href="blog-single.html">What’s In Trend In Women's Fashion
-                                                    Summer?</a></h2>
-                                                <p>You can customize the view Blog posts with a simple mouse click and
-                                                    immediately see the result of your changes. </p>
+                                                <div className="thumb">用品</div>
+                                                <h2><a href="blog-single.html">猫咪的“厕所”也有不同流派：如何选择猫砂盆</a></h2>
+                                                <p>猫砂盆是猫咪生活中的必需品，是它们生活的一部分。一个好的猫砂盆可以让您的猫咪生活舒适，带给您干净和整洁的居室。相反，如果你家的猫咪不喜欢你给它挑的猫砂盆，那么它就可能在家里到处乱拉乱尿，这样咱们就惨了。</p>
                                                 <ul>
                                                     <li><img loading="lazy" src="images/blog/blog-avater/img-1.jpg " alt="" /></li>
-                                                    <li>By <a href="blog-single.html">Robert</a></li>
-                                                    <li>20 Nov 2022</li>
+                                                    <li>By <a href="blog-single.html">阿祥</a></li>
+                                                    <li>2023/05/05</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -246,11 +198,11 @@ function Main() {
                                         <div className="img-holder">
                                             <img loading="lazy" src="images/hero/img-2.jpg" alt="" className="img img-responsive" />
                                             <div className="wpo-blog-content">
-                                                <div className="thumb">Travel</div>
-                                                <h2><a href="blog-single.html">Traveling Makes You More Interesting</a></h2>
+                                                <div className="thumb">教育</div>
+                                                <h2><a href="blog-single.html">如何训练你的宠物去养成良好的习惯？</a></h2>
                                                 <ul>
-                                                    <li>By <a href="blog-single.html">Robert</a></li>
-                                                    <li>20 Nov 2022</li>
+                                                    <li>By <a href="blog-single.html">八方</a></li>
+                                                    <li>2023/05/06</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -259,22 +211,22 @@ function Main() {
                                         <div className="img-holder">
                                             <img loading="lazy" src="images/hero/img-3.jpg" alt="" className="img img-responsive" />
                                             <div className="wpo-blog-content">
-                                                <div className="thumb">Food</div>
-                                                <h2><a href="blog-single.html">Top 10 Healthy Food</a></h2>
+                                                <div className="thumb">食品</div>
+                                                <h2><a href="blog-single.html">如何判断你的宠物是否对某种食物过敏？</a></h2>
                                                 <ul>
-                                                    <li>By <a href="blog-single.html">Robert</a></li>
-                                                    <li>20 Nov 2022</li>
+                                                    <li>By <a href="blog-single.html">白卿</a></li>
+                                                    <li>2023/05/06</li>
                                                 </ul>
                                             </div>
                                         </div>
                                         <div className="img-holder">
                                             <img loading="lazy" src="images/hero/img-4.jpg" alt="" className="img img-responsive" />
                                             <div className="wpo-blog-content">
-                                                <div className="thumb">Business</div>
-                                                <h2><a href="blog-single.html">What Makes a Leader?</a></h2>
+                                                <div className="thumb">健康</div>
+                                                <h2><a href="blog-single.html">猫咪最爱的睡姿——你的猫咪也这样睡觉吗？</a></h2>
                                                 <ul>
-                                                    <li>By <a href="blog-single.html">Robert</a></li>
-                                                    <li>20 Nov 2022</li>
+                                                    <li>By <a href="blog-single.html">铲屎大队长</a></li>
+                                                    <li>2023/05/07</li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -288,11 +240,10 @@ function Main() {
             </div>
 
 
-
-            <div className="wpo-breacking-news section-padding">
+            {/* <div className="wpo-breacking-news section-padding">
                 <div className="container">
                     <div className="row">
-                        <div className="b-title"><span>Breaking News</span></div>
+                        <div className="b-title"><span>最新分享</span></div>
                         <div className="wpo-breacking-wrap owl-carousel">
                             <div className="wpo-breacking-item s1">
                                 <div className="wpo-breacking-img">
@@ -325,204 +276,78 @@ function Main() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
 
             <section className="wpo-blog-highlights-section">
                 <div className="container">
                     <div className="wpo-section-title">
-                        <h2>Today's Top Highlights</h2>
+                        <h2>今日推荐</h2>
                     </div>
                     <div className="row">
-                        <div className="col col-lg-8 col-12">
-
-                            <div className="wpo-blog-highlights-wrap">
-                                <div className="wpo-blog-items">
-                                    <div className="row">
-                                        <div className="col col-lg-6 col-md-6 col-12">
-                                            <div className="wpo-blog-item">
-                                                <div className="wpo-blog-img">
-                                                    <img loading="lazy" src="images/blog/img-1.jpg" alt="" />
-                                                    <div className="thumb">Travel</div>
-                                                </div>
-                                                <div className="wpo-blog-content">
-                                                    <h2><a href="blog-single.html">Traveling Makes You More Inteligent
-                                                        and More Energetic</a></h2>
-                                                    <ul>
-                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-1.jpg " alt="" />
-                                                        </li>
-                                                        <li>By <a href="blog-single.html">Admin</a></li>
-                                                        <li>25 Sep 2022</li>
-                                                    </ul>
-                                                    <p>You can customize the view Blog post with author simple mouse click
-                                                        and immediately see the result of your changes. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div className="col col-lg-6 col-md-6 col-12">
-                                            <div className="wpo-blog-item">
-                                                <div className="wpo-blog-img">
-                                                    <img loading="lazy" src="images/blog/img-2.jpg" alt="" />
-                                                    <div className="thumb">Travel</div>
-                                                </div>
-                                                <div className="wpo-blog-content">
-                                                    <h2><a href="blog-single.html">12 Things to See and Find Out in Bergen,
-                                                        Norway</a></h2>
-                                                    <ul>
-                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-2.jpg " alt="" />
-                                                        </li>
-                                                        <li>By <a href="blog-single.html">Admin</a></li>
-                                                        <li>25 Sep 2022</li>
-                                                    </ul>
-                                                    <p>You can customize the view Blog post with author simple mouse click
-                                                        and immediately see the result of your changes. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div className="col col-lg-6 col-md-6 col-12">
-                                            <div className="wpo-blog-item">
-                                                <div className="wpo-blog-img">
-                                                    <img loading="lazy" src="images/blog/img-3.jpg" alt="" />
-                                                    <div className="thumb">Travel</div>
-                                                </div>
-                                                <div className="wpo-blog-content">
-                                                    <h2><a href="blog-single.html">Healthy Daily Rutine For Your Healthy
-                                                        Lifestyle</a></h2>
-                                                    <ul>
-                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-3.jpg " alt="" />
-                                                        </li>
-                                                        <li>By <a href="blog-single.html">Admin</a></li>
-                                                        <li>25 Sep 2022</li>
-                                                    </ul>
-                                                    <p>You can customize the view Blog post with author simple mouse click
-                                                        and immediately see the result of your changes. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div className="col col-lg-6 col-md-6 col-12">
-                                            <div className="wpo-blog-item">
-                                                <div className="wpo-blog-img">
-                                                    <img loading="lazy" src="images/blog/img-4.jpg" alt="" />
-                                                    <div className="thumb">Travel</div>
-                                                </div>
-                                                <div className="wpo-blog-content">
-                                                    <h2><a href="blog-single.html">Perfect Photo Clicking Idea You Must
-                                                        Khow About.</a></h2>
-                                                    <ul>
-                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-1.jpg " alt="" />
-                                                        </li>
-                                                        <li>By <a href="blog-single.html">Admin</a></li>
-                                                        <li>25 Sep 2022</li>
-                                                    </ul>
-                                                    <p>You can customize the view Blog post with author simple mouse click
-                                                        and immediately see the result of your changes. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div className="col col-lg-6 col-md-6 col-12">
-                                            <div className="wpo-blog-item">
-                                                <div className="wpo-blog-img">
-                                                    <img loading="lazy" src="images/blog/img-5.jpg" alt="" />
-                                                    <div className="thumb">Travel</div>
-                                                </div>
-                                                <div className="wpo-blog-content">
-                                                    <h2><a href="blog-single.html">Traveling Makes You More Inteligent
-                                                        and More Energetic</a></h2>
-                                                    <ul>
-                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-2.jpg " alt="" />
-                                                        </li>
-                                                        <li>By <a href="blog-single.html">Admin</a></li>
-                                                        <li>25 Sep 2022</li>
-                                                    </ul>
-                                                    <p>You can customize the view Blog post with author simple mouse click
-                                                        and immediately see the result of your changes. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div className="col col-lg-6 col-md-6 col-12">
-                                            <div className="wpo-blog-item">
-                                                <div className="wpo-blog-img">
-                                                    <img loading="lazy" src="images/blog/img-6.jpg" alt="" />
-                                                    <div className="thumb">Travel</div>
-                                                </div>
-                                                <div className="wpo-blog-content">
-                                                    <h2><a href="blog-single.html">12 Things to See and Find Out in Bergen,
-                                                        Norway</a></h2>
-                                                    <ul>
-                                                        <li><img loading="lazy" src="images/blog/blog-avater/img-3.jpg " alt="" />
-                                                        </li>
-                                                        <li>By <a href="blog-single.html">Admin</a></li>
-                                                        <li>25 Sep 2022</li>
-                                                    </ul>
-                                                    <p>You can customize the view Blog post with author simple mouse click
-                                                        and immediately see the result of your changes. </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
+                        <TodayRecommend />
                         <div className="col col-lg-4 col-12">
                             <div className="blog-sidebar">
                                 <div className="widget category-widget">
-                                    <h3>Trending Topics</h3>
+                                    <h3>主题趋势</h3>
                                     <ul>
-                                        <li><a href="blog-single.html">Lifestyle<span>(05)</span></a></li>
-                                        <li><a href="blog-single.html">Inspiration <span>(07)</span></a></li>
-                                        <li><a href="blog-single.html">Fashion <span>(03)</span></a></li>
-                                        <li><a href="blog-single.html">Photography <span>(06)</span></a></li>
-                                        <li><a href="blog-single.html">Travel <span>(12)</span></a></li>
-                                        <li><a href="blog-single.html">Business <span>(08)</span></a></li>
+                                        <li><a href="blog-single.html">宠物食品<span>(05)</span></a></li>
+                                        <li><a href="blog-single.html">宠物用品 <span>(07)</span></a></li>
+                                        <li><a href="blog-single.html">宠物教育 <span>(03)</span></a></li>
+                                        <li><a href="blog-single.html">宠物健康 <span>(06)</span></a></li>
+                                        <li><a href="blog-single.html">宠物美容 <span>(12)</span></a></li>
+                                        <li><a href="blog-single.html">宠物领养 <span>(08)</span></a></li>
                                     </ul>
                                 </div>
                                 <div className="widget recent-post-widget">
-                                    <h3>Popular Post</h3>
+                                    <h3>最受欢迎</h3>
                                     <div className="posts">
-                                        <div className="post">
-                                            <div className="img-holder">
-                                                <img loading="lazy" src="images/recent-posts/img-1.jpg" alt="" />
+                                        {[{
+                                            title: "猫咪老是抓沙发？——教你正确应对这个问题",
+                                            image: "images/recent-posts/img-1.jpg",
+                                            link: '',
+                                            time: "2023/03/17",
+                                        }, {
+                                            title: "狗狗听不懂你的话？——科学训练更有效",
+                                            image: "images/recent-posts/img-1.jpg",
+                                            link: '',
+                                            time: "2023/03/17",
+                                        }, {
+                                            title: "如何防止你家狗狗走丢？——一些预防小技巧",
+                                            image: "images/recent-posts/img-1.jpg",
+                                            link: '',
+                                            time: "2023/03/17",
+                                        }, {
+                                            title: "如何培养它的良好卫生习惯？",
+                                            image: "images/recent-posts/img-1.jpg",
+                                            link: '',
+                                            time: "2023/03/17",
+                                        }, {
+                                            title: "要训练猫咪狗狗自己上厕所吗？看这里",
+                                            image: "images/recent-posts/img-1.jpg",
+                                            link: '',
+                                            time: "2023/03/17",
+                                        }, {
+                                            title: "为何进行定期体检很重要？",
+                                            image: "images/recent-posts/img-1.jpg",
+                                            link: '',
+                                            time: "2023/03/17",
+                                        }].map(({ title, image, link, time }) => (
+                                            <div className="post">
+                                                <div className="img-holder">
+                                                    <img loading="lazy" src={image} alt="" />
+                                                </div>
+                                                <div className="details">
+                                                    <span className="date">{time}</span>
+                                                    <h4><a href="blog-single.html">{title}</a></h4>
+                                                </div>
                                             </div>
-                                            <div className="details">
-                                                <span className="date">19 Jun 2022 </span>
-                                                <h4><a href="blog-single.html">Perfect Photo Clicking Idea You Must
-                                                    Know.</a></h4>
-                                            </div>
-                                        </div>
-                                        <div className="post">
-                                            <div className="img-holder">
-                                                <img loading="lazy" src="images/recent-posts/img-2.jpg" alt="" />
-                                            </div>
-                                            <div className="details">
-                                                <span className="date">22 May 2022 </span>
-                                                <h4><a href="blog-single.html">Best tourism site all over the world.</a>
-                                                </h4>
-                                            </div>
-                                        </div>
-                                        <div className="post">
-                                            <div className="img-holder">
-                                                <img loading="lazy" src="images/recent-posts/img-3.jpg" alt="" />
-                                            </div>
-                                            <div className="details">
-                                                <span className="date">12 Apr 2022 </span>
-                                                <h4><a href="blog-single.html">Whats In Trend in Now Woman Fashion.</a></h4>
-                                            </div>
-                                        </div>
-                                        <div className="post">
-                                            <div className="img-holder">
-                                                <img loading="lazy" src="images/recent-posts/img-4.jpg" alt="" />
-                                            </div>
-                                            <div className="details">
-                                                <span className="date">12 Apr 2022 </span>
-                                                <h4><a href="blog-single.html">Top 10 Healthy Food of Your Menu.</a></h4>
-                                            </div>
-                                        </div>
+                                        ))}
                                     </div>
                                 </div>
-                                <div className="wpo-add-widget">
+                                {/* <div className="wpo-add-widget">
                                     <a href="#"><img loading="lazy" src="images/add.jpg" alt="" /></a>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>
@@ -533,80 +358,59 @@ function Main() {
             <section className="wpo-blog-sponsored-section section-padding">
                 <div className="container">
                     <div className="wpo-section-title">
-                        <h2>sponsored news</h2>
+                        <h2>往期精选</h2>
                     </div>
                     <div className="row">
                         <div className="wpo-blog-sponsored-wrap">
                             <div className="wpo-blog-items">
                                 <div className="row">
-                                    <div className="col col-xl-3 col-lg-6 col-md-6 col-12">
-                                        <div className="wpo-blog-item">
-                                            <div className="wpo-blog-img">
-                                                <img loading="lazy" src="images/sponsord/img-1.jpg" alt="" />
-                                                <div className="thumb">Travel</div>
-                                            </div>
-                                            <div className="wpo-blog-content">
-                                                <h2><a href="blog-single.html">Top Most Beautiful Scenery in The World.</a>
-                                                </h2>
-                                                <ul>
-                                                    <li><img loading="lazy" src="images/blog/blog-avater/img-1.jpg " alt="" /></li>
-                                                    <li>By <a href="blog-single.html">Admin</a></li>
-                                                    <li>25 Sep 2022</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="col col-xl-3 col-lg-6 col-md-6 col-12">
-                                        <div className="wpo-blog-item">
-                                            <div className="wpo-blog-img">
-                                                <img loading="lazy" src="images/sponsord/img-2.jpg" alt="" />
-                                                <div className="thumb">Travel</div>
-                                            </div>
-                                            <div className="wpo-blog-content">
-                                                <h2><a href="blog-single.html">Perfect Photo Clicking Idea You Must Khow
-                                                    About.</a></h2>
-                                                <ul>
-                                                    <li><img loading="lazy" src="images/blog/blog-avater/img-2.jpg " alt="" /></li>
-                                                    <li>By <a href="blog-single.html">Admin</a></li>
-                                                    <li>25 Sep 2022</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="col col-xl-3 col-lg-6 col-md-6 col-12">
-                                        <div className="wpo-blog-item">
-                                            <div className="wpo-blog-img">
-                                                <img loading="lazy" src="images/sponsord/img-3.jpg" alt="" />
-                                                <div className="thumb">Travel</div>
-                                            </div>
-                                            <div className="wpo-blog-content">
-                                                <h2><a href="blog-single.html">Top Most Beautiful Scenery in The World.</a>
-                                                </h2>
-                                                <ul>
-                                                    <li><img loading="lazy" src="images/blog/blog-avater/img-3.jpg " alt="" /></li>
-                                                    <li>By <a href="blog-single.html">Admin</a></li>
-                                                    <li>25 Sep 2022</li>
-                                                </ul>
+                                    {[{
+                                        tag: '健康',
+                                        title: '健康的宠物挑选指南',
+                                        image: 'images/sponsord/img-1.jpg',
+                                        time: '2023/01/23',
+                                        anchor: '阿祥',
+                                        avatar: 'images/blog/blog-avater/img-1.jpg',
+                                    }, {
+                                        tag: '健康',
+                                        title: '狗狗总是翻垃圾桶怎么办？',
+                                        image: 'images/sponsord/img-1.jpg',
+                                        time: '2023/01/23',
+                                        anchor: '八方',
+                                        avatar: 'images/blog/blog-avater/img-1.jpg',
+                                    }, {
+                                        tag: '健康',
+                                        title: '狗狗夏季洗澡指南',
+                                        image: 'images/sponsord/img-1.jpg',
+                                        time: '2023/01/23',
+                                        anchor: '白卿',
+                                        avatar: 'images/blog/blog-avater/img-1.jpg',
+                                    }, {
+                                        tag: '健康',
+                                        title: '如何训练宠物不咬人',
+                                        image: 'images/sponsord/img-1.jpg',
+                                        time: '2023/01/23',
+                                        anchor: '白卿',
+                                        avatar: 'images/blog/blog-avater/img-1.jpg',
+                                    }].map(({ tag, title, image, time, anchor, avatar }) => (
+                                        <div className="col col-xl-3 col-lg-6 col-md-6 col-12">
+                                            <div className="wpo-blog-item">
+                                                <div className="wpo-blog-img">
+                                                    <img loading="lazy" src={image} alt="" />
+                                                    <div className="thumb">{tag}</div>
+                                                </div>
+                                                <div className="wpo-blog-content">
+                                                    <h2><a href="blog-single.html">{title}</a>
+                                                    </h2>
+                                                    <ul>
+                                                        <li><img loading="lazy" src={avatar} alt="" /></li>
+                                                        <li>By <a href="blog-single.html">{anchor}</a></li>
+                                                        <li>{time}</li>
+                                                    </ul>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div className="col col-xl-3 col-lg-6 col-md-6 col-12">
-                                        <div className="wpo-blog-item">
-                                            <div className="wpo-blog-img">
-                                                <img loading="lazy" src="images/sponsord/img-4.jpg" alt="" />
-                                                <div className="thumb">Travel</div>
-                                            </div>
-                                            <div className="wpo-blog-content">
-                                                <h2><a href="blog-single.html">Top Most Beautiful Scenery in The World.</a>
-                                                </h2>
-                                                <ul>
-                                                    <li><img loading="lazy" src="images/blog/blog-avater/img-1.jpg " alt="" /></li>
-                                                    <li>By <a href="blog-single.html">Admin</a></li>
-                                                    <li>25 Sep 2022</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    ))}
                                 </div>
                             </div>
                         </div>

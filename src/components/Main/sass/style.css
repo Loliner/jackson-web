@@ -3760,6 +3760,11 @@ a:hover {
 }
 
 /* 3.4 wpo-blog-highlights-section */
+
+.wpo-blog-highlights-section {
+  margin-top: 40px;
+}
+
 .wpo-blog-highlights-section .wpo-blog-highlights-wrap {
   position: relative;
   z-index: 1;
